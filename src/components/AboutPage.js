@@ -46,7 +46,7 @@ export default function AboutPage() {
 
 
                 {/* <h1 style={{color: "#0C56D0", marginTop: "50px", textAlign: "center"}}>Our Vision</h1> */}
-                <h1 style={{ color: "#0C56D0", marginTop: "10%", textAlign: "center" }}>Our Vision</h1>
+                <h1 style={{ color: "#0C56D0", marginTop: "10%", textAlign: "center" }}>Our Vision ye ha</h1>
                 {/* 
                 <Grid container>
                     <Grid item lg={4} md={4} sm={6} xm={12} xs={12}>
