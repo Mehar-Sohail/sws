@@ -211,21 +211,24 @@ export default function Home() {
 
           <section style={{ marginTop: "10%" }}>
 
+
             <Grid container mt={2}
               style={{ backgroundColor: "#0C56D0", borderRadius: "40px" }} >
+
               <Grid item lg={4} md={4} sm={6} xm={12} xs={12}>
                 <div style={{ textAlign: 'center' }} >
                   {/* <img src="./img/4.png" alt='' style={{ marginTop: "18%" }} /> */}
                   <h3 style={{ color: "white", margin: "23% 0px" }}>35+ Cases</h3>
                 </div>
               </Grid>
+
               <Grid item lg={4} md={4} sm={6} xm={12} xs={12}>
                 <div style={{ textAlign: 'center' }} >
                   {/* <img src="./img/2.png" alt='' style={{ marginTop: "18%", float: "left" }} /> */}
                   <h3 style={{ color: "white", margin: "21% 0px" }}>12M People Joined</h3>
                 </div>
-
               </Grid>
+
               <Grid item lg={4} md={4} sm={6} xm={12} xs={12}>
                 <div style={{ textAlign: 'center' }}>
                   {/* <img src="./img/3.png" alt='' style={{ marginTop: "18%", float: "left" }} /> */}
@@ -349,7 +352,7 @@ export default function Home() {
 
         </div >
 
-      </section>
+      </section >
 
       <section>
         <Footer />
