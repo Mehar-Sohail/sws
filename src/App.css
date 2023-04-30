@@ -5,3 +5,10 @@
 .Pointer{
   cursor: pointer;
 }
+
+@media (max-width: 500px) {
+  .applicationOptionalImg{
+    display: none;
+  }
+
+}
